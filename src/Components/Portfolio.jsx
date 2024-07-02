@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/desk.jpg";
+import image from "../images/mlsa2.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,23 +31,36 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Billboard Design 🎉",
+    title: "Workshops 🎉",
     description:
-      "Quelques exemples de conceptions graphiques grand format pour des entreprises.",
-    url: "https://www.dropbox.com/scl/fo/sszf9j1j72pzz896fjs0z/h?rlkey=wis3b4sqz7f279pshsxsscn3u&dl=0",
+      " Interactive sessions on various tech topics, from programming and software development to AI and cloud computing.",
+    url: " ",
   },
   {
-    title: "Logo Design ",
+    title: "Tech Talks ",
     description:
-      "Création d'identité visuelle diverses.",
-    url: "https://www.dropbox.com/scl/fo/010gt29lxcqk6abb2ndyx/h?rlkey=migt5cw98qabfxob93wdsuuct&dl=0",
-  }
+      "Engaging discussions with industry experts and leaders who share their insights and experiences.",
+    url: " ",
+  },
+  {
+    title: "Collaborative Projects ",
+    description:
+      "Opportunities to work on real-life projects, gain practical experience, and contribute to meaningful solutions.",
+    url: " ",
+  },
+
+  {
+    title: "Networking Events ",
+    description:
+      "Regular meetups and networking sessions to connect with like-minded individuals, build professional relationships, and exchange ideas.",
+    url: " ",
+  },
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center" }}>What we offer</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img

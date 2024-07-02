@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Aminou Yerima",
-  title: "AI Engineer & UX/UI Designer",
-  email: "yerima205@gmail.com",
-  gitHub: "https://github.com/aminou-yerima/",
+  name: "MLSA Niger",
+  title: "Let's create impact !",
+  email: "mamaneaminou.harounayerima@studentambassadors.com",
+  gitHub: "",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/aminou-yerima-6a6710213/",
+  linkedIn: " ",
   medium: "",
-  twitter: "https://twitter.com/Oga_Imayeer",
+  twitter: "",
   youTube: "",
 };
 

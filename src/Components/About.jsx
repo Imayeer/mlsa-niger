@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an AI Engineering student and professional UX/UI & Graphic Designer with +5 years experience. I love designing impactful interfaces and developing intelligent systems";
+  "We are a vibrant, tech-focused community dedicated to transforming our society through innovation and education. Our mission is to create opportunities and empower our peers by providing valuable resources and knowledge in the field of technology. We achieve this by hosting a variety of events, including workshops, tech talks, and collaborative projects. Our main goals are :";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "UX Design",
-  "Graphic & Brand Design",
-  "Machine Learning",
-  "Deep Learning",
-  "Data Analysis",
-  "Data Science",
+  "Upskill Peers",
+  "Create Opportunities",
+  "Community Impact",
+  "Promote Innovation",
+  "Support Diversity",
+  "Mentorship and Guidance",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Tech addict, I'm passionate about learning and combining different skills together to solve problems in a creative way.";
+  "Join us and be a part of a dynamic community where learning and innovation thrive. Together, we can make a difference and shape the future of technology in Niger.";
 
 const About = () => {
   return (
@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>About Us & Our Goals</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
