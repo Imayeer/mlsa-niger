@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "We've partenered with DataCamp Donates 🎉",
     description:
-      " We are offering 50 scholarships to our community members to support their learning with wonderful resources. ",
+      " We are offering 50 scholarships to our community members to support their learning with wonderful resources in AI Data and more. ",
     url: "https://www.datacamp.com/ ",
   },
   {
