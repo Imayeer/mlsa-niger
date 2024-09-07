@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/mlsa2.jpeg";
+import image from "../images/DC_Donates_logo_regular.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Datacamp Donates logo";
 
 /**
  * Project list
@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Workshops 🎉",
+    title: "We've partenered with DataCamp Donates 🎉",
     description:
-      " Interactive sessions on various tech topics, from programming and software development to AI and cloud computing.",
-    url: " ",
+      " We are offering 50 scholarships to our community members to support their learning with wonderful resources. ",
+    url: "https://www.datacamp.com/ ",
   },
   {
     title: "Tech Talks ",
@@ -43,9 +43,9 @@ const projectList = [
     url: " ",
   },
   {
-    title: "Collaborative Projects ",
+    title: "Workshops 🎉",
     description:
-      "Opportunities to work on real-life projects, gain practical experience, and contribute to meaningful solutions.",
+      " Interactive sessions on various tech topics, from programming and software development to AI and cloud computing.",
     url: " ",
   },
 
